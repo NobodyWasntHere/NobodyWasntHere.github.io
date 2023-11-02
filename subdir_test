@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>MY SUPER COOL NEW WEBSITE</title>
+        
+        <style>
+            a {
+                color: red;
+            }
+            h1 {
+                color: white;
+            }
+            body {
+                height: 100%;
+                width: 100%;
+                background-color: black;
+                background-image: url("https://codehs.com/uploads/42b62d1b5dc24ca06401993938930f23");
+                background-attachment: fixed;
+                background-size: 100px;
+                color: black;
+                overflow-x: hidden;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <h1>wow, it worked</h1>
+        <a href = "index.html">go back</a>
+    </body>
+</html>
