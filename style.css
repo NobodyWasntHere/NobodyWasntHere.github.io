@@ -1,0 +1,31 @@
+body {
+        height: 100%;
+        width: 100%;
+        background-color: black;
+        background-image: url("https://codehs.com/uploads/42b62d1b5dc24ca06401993938930f23");
+        background-attachment: fixed;
+        background-size: 100px;
+        color: white;
+        overflow-x: hidden;
+    }
+    div {
+        background-color: rgb(255,0,0);
+        opacity: 0.85;
+        }
+        
+    .links {
+        color: red;
+        }
+    .Centered-Text {
+        text-align: center;
+        color: black;
+        font-size: 30px;
+        font-family: 'Brush Script MT', cursive;
+        }
+    .reading_text {
+        font-family: 'Brush Script MT', cursive;
+        color: black;
+        padding-left: 2%;
+        padding-top: 1.5%;
+        padding-right: 1%;
+        }
