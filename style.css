@@ -29,3 +29,22 @@ body {
         padding-top: 1.5%;
         padding-right: 1%;
         }
+
+        #header-div {
+            padding-top: 10px;
+            padding-bottom: 10px;
+            margin-left: -10px;
+            margin-right: 20;
+        }
+        #bottom-div {
+                margin-left: -10px;
+                margin-top: 45%;
+                padding-bottom: 60%;
+                min-height: 0px;
+            }
+        #cool-text {
+            background-color:black;
+            opacity: 1;
+            margin-right:27px;
+            margin-left:15px;
+        }
